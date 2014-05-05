@@ -9,4 +9,5 @@ package edu.zju.bme.mage_tag_parser;
  */
 public class Sdrf {
 
+	public String source_name;
 }
