@@ -27,6 +27,10 @@ public class MAGEParse {
 	public HashMap<Idf, String> getMapIdf() {
 		return mapIdf;
 	}
+	
+	public HashMap<Sdrf, String> getMapSdrf(){
+		return mapSdrf;
+	}
 
 	@SuppressWarnings("resource")
 	public void getContent(File file) throws IOException {

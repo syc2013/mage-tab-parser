@@ -1,9 +1,5 @@
 package edu.zju.bme.mage_tag_parser;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.URL;
 import java.util.HashMap;
 
 public class Idf {
